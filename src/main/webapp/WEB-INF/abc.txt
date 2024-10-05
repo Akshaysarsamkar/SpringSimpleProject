@@ -1,0 +1,11 @@
+value="साखर">
+value="जिरा"
+value="हलद_पावडर"
+ value="साबुदाना"
+  value="भगर"
+   value="चहा_पावडर"
+    value="मीठ"
+     value="तेल"
+      value="काजू"
+       value="बदाम"
+        value="आक्रोड"
